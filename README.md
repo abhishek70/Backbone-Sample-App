@@ -10,5 +10,5 @@ References:
 
 2. http://backbonetutorials.com/organizing-backbone-using-modules/
 
-3. Template : http://www.css3templates.co.uk/
+3. HTML Template : http://www.css3templates.co.uk/
 
